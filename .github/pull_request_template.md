@@ -1,4 +1,4 @@
-### PR Title [Descriptive title summarizing the change]
+# PR Title [Descriptive title summarizing the change]
 
 #### Related Issue(s)
 Link or reference any related issues or tickets.
